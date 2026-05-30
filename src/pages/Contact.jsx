@@ -175,7 +175,7 @@ const Contact = () => {
             <div className="flex gap-5">
 
               <a
-                href="#"
+                href="https://github.com/"
                 className="bg-[#F1F3F5] p-4 rounded-full hover:scale-110 transition"
               >
                 <FaGithub
@@ -185,7 +185,7 @@ const Contact = () => {
               </a>
 
               <a
-                href="#"
+                href="https://www.linkedin.com/"
                 className="bg-[#F1F3F5] p-4 rounded-full hover:scale-110 transition"
               >
                 <FaLinkedin
